@@ -1,0 +1,15 @@
+{
+  "name": "newchatapp",
+  "version": "1.0.0",
+  "description": "chatapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kathir",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
